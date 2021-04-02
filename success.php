@@ -68,3 +68,4 @@ if($code == 200 && !( curl_errno($handle)))
 
 	echo "Failed to connect with SSLCOMMERZ";
 }
+
